@@ -1,0 +1,8 @@
+<START:Date> 1990 年 5 月 25 日 <END> 渡辺 真由子  さん は、 大手 出版 会社 の 会長 でした。
+<START:Date> 昭和 5 年 1 月 1 日 <END> は、渡邊 真由 さん 55 歳 を むかいました。
+こんにち は、元気 です か ？
+<START:Date> 大正 13 年 12 月 1 日 <END> は、 <START:Date> 1924 年 12 月 1 日 <END> でした。
+山崎 由美子 先生 の 「 イーハトヴ 童話　注文 の 多い 料理店 」の 本 は、 <START:Date> 2005 年 1 月 26 日 <END> から 作成 した。
+Java で 実装 された OSS の 自然言語処理 ライブラリ であり、 <START:Date> 2010 年 11 月 <END> に Apache Incubator に 寄贈 された。
+<START:Date> 2012 年 2 月 <END> に Apache の トップ レベル プロジェクト に 昇格 しました。
+Apache Lucene 8.2.0 が <START:Date> 2019 年 7 月 26 日 <END> に 公開 されました。
