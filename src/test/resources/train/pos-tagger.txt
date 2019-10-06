@@ -1,0 +1,5 @@
+Last_JJ September_NNP ,_, I_PRP tried_VBD to_TO find_VB out_RP the_DT address_NN of_IN an_DT old_JJ school_NN friend_NN whom_WP I_PRP had_VBD not_RB seen_VBN for_IN 15_CD years_NNS ._.
+I_PRP just_RB knew_VBD his_PRP$ name_NN ,_, Alan_NNP McKennedy_NNP ,_, and_CC I_PRP 'd_MD heard_VBD the_DT rumour_NN that_IN he_PRP 'd_MD moved_VBD to_TO Scotland_NNP ,_, the_DT country_NN of_IN his_PRP$ ancestors_NNS ._.
+So_IN I_PRP called_VBD Julie_NNP ,_, a_DT friend_NN who's_WDT still_RB in_IN contact_NN with_IN him_PRP ._.
+She_PRP told_VBD me_PRP that_IN he_PRP lived_VBD in_IN 23213_CD Edinburgh_NNP ,_, Worcesterstreet_NNP 12_CD ._.
+I_PRP wrote_VBD him_PRP a_DT letter_NN right_RB away_RB and_CC he_PRP answered_VBD soon_RB ,_, sounding_VBG very_RB happy_JJ and_CC delighted_JJ ._.
