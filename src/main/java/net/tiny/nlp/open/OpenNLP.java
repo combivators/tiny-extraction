@@ -19,6 +19,8 @@ import opennlp.tools.util.Span;
  *
  * {@link OpenNLP#guestLanguage(String)}
  *
+ * @see https://github.com/NLP-LOVE/ML-NLP
+ *
  */
 public class OpenNLP {
 
